@@ -1,0 +1,49 @@
+.active-card--section {
+  display: flex;
+  justify-content: center;
+}
+
+.cardstack-container--section {
+  margin-top: 250px;
+}
+
+.LinkToAddCard {
+  position: fixed;
+  bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: white;
+  border: 1px solid;
+  max-width: 100%;
+  min-width: 90%;
+  margin-top: 5px;
+  padding: 15px 0px;
+  border-radius: 3px;
+  z-index: 2;
+}
+
+.LinkToAddCard:hover {
+  box-shadow: 3px 5px 10px rgb(220, 212, 212);
+}
+
+.addBtn--section {
+  box-sizing: inherit;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (min-width: 400px) {
+  .LinkToAddCard {
+    max-width: 60%;
+    min-width: 50%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .LinkToAddCard {
+    max-width: 30%;
+    min-width: 25%;
+  }
+}

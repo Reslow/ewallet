@@ -1,0 +1,16 @@
+.top--section {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.title--heading {
+  font-size: 2em;
+  color: #222222;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-top: 5px;
+}
+
+.subtitle--heading {
+  font-size: 1em;
+  color: #2222226d;
+}

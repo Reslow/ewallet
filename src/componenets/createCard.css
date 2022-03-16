@@ -1,0 +1,43 @@
+.form--section {
+  flex-direction: column;
+  text-align: left;
+  position: absolute;
+  width: 80%;
+  margin-top: 45%;
+}
+
+.validAndCcvSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.valid--section,
+.cvv--section {
+  max-width: 48%;
+  display: flex;
+
+  margin-right: auto;
+  margin-left: auto;
+  flex-direction: column;
+}
+
+.createCard--section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.input {
+  margin: 10px 0px 10px 0px;
+  width: 100%;
+  line-height: 150%;
+  height: 3em;
+  padding: 5px;
+}
+
+.label {
+  font-size: 12px;
+}

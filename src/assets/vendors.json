@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Evil Corp",
+    "logo": "vendor-evil.svg",
+    "color": "#F33355",
+    "textcolor": "#FFFFFF"
+  },
+
+  {
+    "name": "Bitcoin Inc",
+    "logo": "vendor-bitcoin.svg",
+    "color": "#FFAE34",
+    "textcolor": "#222222"
+  },
+  {
+    "name": "Block Chain Inc",
+    "logo": "vendor-blockchain.svg",
+    "color": "#8B58F9",
+    "textcolor": "#FFFFFF"
+  },
+  {
+    "name": "Ninja Bank",
+    "logo": "vendor-ninja.svg",
+    "color": "#222222",
+    "textcolor": "#FFFFFF"
+  }
+]
